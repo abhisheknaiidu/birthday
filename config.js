@@ -33,7 +33,9 @@ var config = {
         "and fill it with your most beautiful smile",
         "lastly...",
         "I'd like to wish you one more time",
-        "a very happy birthday Keeerr JI 🥳"
+        "a very happy birthday Keeerr JI 🥳",
+        "There's also a Keer ChatBOT at the bottom, do check 🙈"
+
     ],
 
     imgs: {
