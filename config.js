@@ -39,13 +39,13 @@ var config = {
         "心爱的小可爱": "./imgs/xiaokeai.png",
     },
     desc: {
-        turn_on: "🏮TURN ON LIGHTS 🏮",
-        play: "🎻PLAY MUSIC 🎻",
-        bannar_coming: "🎊LET'S DECORATE 🎊",
-        balloons_flying: "🎈FLY WITH BALLOONS 🎈",
-        cake_fadein: "🎂MOST DELICIOUS CAKE EVER 🎂",
-        light_candle: "🕯LIGHT CANDLE 🕯",
-        wish_message: "🎉HAPPY BIRTHDAY 🎉",
-        story: "✨MESSAGE FOR YOU ✨",
+        turn_on: "🏮 TURN ON LIGHTS 🏮",
+        play: "🎻 PLAY MUSIC 🎻",
+        bannar_coming: "🎊 LET'S DECORATE 🎊",
+        balloons_flying: "🎈 FLY WITH BALLOONS 🎈",
+        cake_fadein: "🎂 MOST DELICIOUS CAKE EVER 🎂",
+        light_candle: "🕯 LIGHT CANDLE 🕯",
+        wish_message: "🎉 HAPPY BIRTHDAY 🎉",
+        story: "✨ MESSAGE FOR YOU ✨",
     }
 };
